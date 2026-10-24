@@ -14,7 +14,17 @@ Sistema de información para **Aved Medical S.A.** (comercialización y distribu
 **Docente:** Nadia Gallardo
 
 ## Tecnologías
-
+- Pendiente de definir en reunión de equipo (Sprint 0).
 - Git + GitHub
+
+## Puesta en marcha
+
+```bash
+# 1. Clonar
+git clone <URL-DEL-REPO>
+cd aved-medical-sgc
+
+```
+Abrir http://127.0.0.1:5000 en el navegador.
 
 
